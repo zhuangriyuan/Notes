@@ -22,4 +22,3 @@
 
 克隆仓库					（git clone "https://github.com/zhuangriyuan/test.git"）
 抓取指令					（git pull 抓取所有并更新当前分支）
-test
