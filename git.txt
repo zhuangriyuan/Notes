@@ -21,3 +21,4 @@
 将本地代码push到远程仓库			（git push origin master）
 
 克隆仓库					（git clone "https://github.com/zhuangriyuan/test.git"）
+抓取指令					（git pull 抓取所有并更新当前分支）
