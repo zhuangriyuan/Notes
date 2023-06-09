@@ -1,0 +1,23 @@
+初始化git/创建本地仓库  			（git init）
+修改过或者新增文件加入暂存区stage          (git add）（git add .）（git add *.py）
+查看文件状态  				（git status）
+提交commit				（git commit -m "注释message"）
+查看log日志				（git log）
+回溯版本					（git reset --hard hash代码)  // hash代码在git log中查看
+查看所有历史记录及hash code		（git reflog)
+
+查看分支					（git branch）
+创建分支					（git branch 分支名）
+切换分支					（git checkout 分支名）
+合并分支					（git merge 要merge的分支）  // 一般merge到master
+删除分支					（git branch -d 分支名）
+
+生成ssh公钥  				（ssh-keygen -t rsa）
+查看公钥					（cat ~/.ssh/id_rsa.pub）
+连接github和本地公钥			（ssh -T git@github.com）
+
+将本地仓库推送到远程仓库			（git remote add origin "https://github.com/zhuangriyuan/test.git"）
+查看远程仓库				（git remote）
+将本地代码push到远程仓库			（git push origin master）
+
+克隆仓库					（git clone "https://github.com/zhuangriyuan/test.git"）

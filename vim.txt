@@ -1,0 +1,82 @@
+
+A  最后面输入
+I  最前面输入
+gg: jump to start of the file
+G: jump to the end
+f+字母 跳到下一个最近的字母
+
+移动一行 ddp
+移动一排vddp
+复制一行 yyp
+复制一排
+
+:wq  save and exit
+:w   save
+
+ctrl r  redo
+u:     undo
+
+:NERDTree   (o打开)
+F7检测语法
+
+
+
+
+
+
+
+
+
+
+
+
+I (Switch to Insert Mode)
+
+Esc to Normal mode
+
+: into command mode
+
+v 可视模式
+
+普通模式中
+w: jump to next word
+b: jump to last word
+
+gg: jump to start of the file
+G: jump to the end
+
+ctrl u:  scroll up
+ctrl d:  scroll down
+
+f+字母 跳到下一个最近的字母
+
+yaw:  	 copy all word
+p:   	paste
+
+y4j: copy 4 lines below
+y4w: copy 4 lines above  
+
+u: ctrl z
+
+:wq  save and exit
+:w   save
+
+dj: 删除这行和下行
+d8j: 删除下面8行
+dfr: 删除到字母r为止的内容
+
+跳行 数字键加方向键
+
+输入模式中
+A  最后面输入
+I  最前面输入
+a  当前光标后输入
+i 当前光标前输入
+caw change all word
+cc 删除这一行并且进入输入模式
+
+可视模式中
+
+v 进入可视模式
+
+
