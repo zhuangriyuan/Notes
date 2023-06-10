@@ -1,0 +1,12 @@
+安装choco和neovim
+
+https://www.youtube.com/watch?v=XBlKG2LW6p4
+
+配置
+https://www.youtube.com/watch?v=stqUbv-5u2s&t=631s
+
+
+
+如果报错
+choco install zig
+在init.lua中 comment掉以下代码 --{ import = 'custom.plugins' },
