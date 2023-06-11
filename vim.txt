@@ -1,4 +1,6 @@
 搜索目录下的文件    空格sf （search files）
+搜索单词                       空格 /
+搜索快捷键指令            Telescope keymaps
 
 
 
